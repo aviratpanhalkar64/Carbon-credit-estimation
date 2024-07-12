@@ -1,2 +1,2 @@
-# Carbon-credit-estimation
-Carbon credit estimation for Delhi location
+# Carbon-stock-estimation
+Carbon stock estimation for Delhi location
